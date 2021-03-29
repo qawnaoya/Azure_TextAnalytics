@@ -1,0 +1,7 @@
+*_files/
+.vscode/
+azure/
+*.config
+*.ipynb
+*.md
+*.html
