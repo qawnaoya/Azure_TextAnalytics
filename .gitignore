@@ -5,3 +5,4 @@ azure/
 *.ipynb
 *.md
 *.html
+N*.txt
